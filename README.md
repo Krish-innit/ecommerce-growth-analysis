@@ -26,7 +26,7 @@ Users are visiting the platform but not completing purchases. The goal is to ide
    The cart to purchase stage shows 80% drop-off, indicating the hurdles in the checkout process which could be due to limited payment 
    options, lack of trust or complicated payment process.
 ### 2. Poor Retention:
-   A total of 90% users drop-off after making 1st purchase, showing weak customer retention, and user may not find enough value to return.
+   A total of 90% users drop-off after making 1st purchase, showing weak customer retention, as user may not find enough value to return.
 ### 3. Weak User Engagement: 
    A 60% drop-off between visit to product views, showing users lose interest on the landing page even before engaging with the products,
    possibly due to poor UI/UX design or slow loading speed.
