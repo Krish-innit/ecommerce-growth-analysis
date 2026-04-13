@@ -11,10 +11,15 @@ Users are visiting the platform but not completing purchases. The goal is to ide
 - 20 repeat purchases
 
 ## Funnel Analysis
-1. Visit to Product View: Conversion rate is 40%, which indicate that there's a 60% drop off. This suggest that the majority of users are  not engaging with the product after landing on the platform.
-2. Product view to Add to Cart: Conversion rate is 25%, meaning 75% drop-off. This indicate the low consumer interest toward the product.
-3. Cart to Purchase: Conversion rate is 20%, showing 80% drop-off. This indicate the hurdles during the checkout process.
-4. Purchase to Repeat Purchase: Conversion rate is 10%, with 90% drop off, indicating really poor retention and customer loyalty.
+###1. Visit to Product View: 
+   Conversion rate is 40%, which indicate that there's a 60% drop off. This suggest that the majority of users are  not engaging with the
+   product after landing on the platform.
+###2. Product view to Add to Cart: 
+   Conversion rate is 25%, meaning 75% drop-off. This indicate the low consumer interest toward the product.
+###3. Cart to Purchase: 
+   Conversion rate is 20%, showing 80% drop-off. This indicate the hurdles during the checkout process.
+###4. Purchase to Repeat Purchase: 
+   Conversion rate is 10%, with 90% drop off, indicating really poor retention and customer loyalty.
 
 ## Key Insights
 ### 1. Bottlenecks in Checkout: 
