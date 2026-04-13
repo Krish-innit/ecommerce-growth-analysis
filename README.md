@@ -31,7 +31,8 @@ Users are visiting the platform but not completing purchases. The goal is to ide
    A 60% drop-off between visit to product views, showing users lose interest on the landing page even before engaging with the products,
    possibly due to poor UI/UX design or slow loading speed.
 ### 4. Low Product Interest: 
-   A 75% drop-off from product view to add to cart shows that the user's lack of interest in the products, which can be due to unappealing products, or pricing concerns.
+   A 75% drop-off from product view to add to cart shows that the user's lack of interest in the products, which can be due to unappealing
+   presentation of products, or pricing concerns.
 
 ## Recommendations
 ### 1. Optimize checkout process: 
