@@ -1,14 +1,16 @@
 # E-commerce Growth Analysis
 
+<img width="1012" height="543" alt="image" src="https://github.com/user-attachments/assets/5e098d7b-1c13-4fcd-a593-a9d86ff26816" />
+
 ## Problem Statement
 Users are visiting the platform but not completing purchases. The goal is to identify where users drop off and suggest improvements.
 
 ## Dataset
-- 10,000 visitors
-- 4,000 product views
-- 1,000 add to cart
-- 200 purchases
-- 20 repeat purchases
+- 10,000 Total visitors
+- 4,000 Product Views
+- 1,000 Add To Cart
+- 200 Purchases
+- 20 Repeat Purchases
 
 ## Funnel Analysis
 ### 1. Visit to Product View: 
